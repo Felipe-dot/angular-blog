@@ -43,7 +43,7 @@ Você precisa ter o <strong>Node.js</strong> instalado na sua máquina. Senão t
 Depois você vai instalar o Angular CLI. Instala-se ele usando esse comando 
 ```npm install -g @angular/cli``
 Com o Node e Angular instalado na máquina, vc precisa apenas de 2 comandos (no terminal) na pasta do projeto, nessa ordem:
-1. `ng` -> Para instalar as dependências do projeto. (só precisa ser executado uma vez)<br>
+1. `npm install` -> Para instalar as dependências do projeto. (só precisa ser executado uma vez)<br>
 2. `ng serve` -> Para iniciar o servidor local (para acessar o projeto via navegador, digite na barra de endereço o endereço que aparecerá no terminal)<br>
 
 
