@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi proposto como um desafio de frontend  durante o Bootcamp de frontend com angular promovido pelo banco PAN.
+Esse projeto foi proposto como um desafio de frontend  durante o Bootcamp de frontend com angular promovido pelo banco PAN em parceria com a plataforma DIO.
 
 Esse desafio buscou propor a homepage de um site de blog, os dados até o momento são fixos, e utilizei pela temática de Star wars.
 
@@ -41,7 +41,7 @@ Foi feito o deploy do site desenvolvido utilizando a plataforma Netlify, você p
 
 Você precisa ter o <strong>Node.js</strong> instalado na sua máquina. Senão tiver você pode fazer o download através [desse link](https://nodejs.org/en/download/).
 Depois você vai instalar o Angular CLI. Instala-se ele usando esse comando 
-```npm install -g @angular/cli``
+```npm install -g @angular/cli```
 Com o Node e Angular instalado na máquina, vc precisa apenas de 2 comandos (no terminal) na pasta do projeto, nessa ordem:
 1. `npm install` -> Para instalar as dependências do projeto. (só precisa ser executado uma vez)<br>
 2. `ng serve` -> Para iniciar o servidor local (para acessar o projeto via navegador, digite na barra de endereço o endereço que aparecerá no terminal)<br>
